@@ -1,0 +1,8 @@
+8d3dcf9e3c0dccc9c6b7d026e324dd26 e9cf351fd6090cfa6382ac88e3a47d97 ffffffffffffffffffffffffffffffff 102 /Users/allaire/Dropbox/iDev/snake/build/Debug/snake.app
+000000004bba050600000000000000aa 18258735507897fa40c117966a9640a6 ffffffffffffffffffffffffffffffff 170 /Users/allaire/Dropbox/iDev/snake/build/Debug/snake.app/Contents/Frameworks/sfml-graphics.framework
+000000004bba050700000000000000aa 597edbdad815506e081aa340d14f918f ffffffffffffffffffffffffffffffff 170 /Users/allaire/Dropbox/iDev/snake/build/Debug/snake.app/Contents/Frameworks/sfml-window.framework
+000000004bba050600000000000000aa 812d0778f5ed1f18b0f936949e92d106 ffffffffffffffffffffffffffffffff 170 /Users/allaire/Dropbox/iDev/snake/build/Debug/snake.app/Contents/Frameworks/sfml-system.framework
+91f54938c038c2905b427a3b03f752b0 dcbedd31ca0fd3d265d7285fc5988f13 ffffffffffffffffffffffffffffffff 19784 /Users/allaire/Dropbox/iDev/snake/build/Debug/snake.app/Contents/MacOS/snake
+00000000000000000000000000000000 24e2b3b33c0e9e065e9d464693488ad8 ffffffffffffffffffffffffffffffff 8 /Users/allaire/Dropbox/iDev/snake/build/Debug/snake.app/Contents/PkgInfo
+00000000000000000000000000000000 24e2b3b33c0e9e065e9d464693488ad8 ffffffffffffffffffffffffffffffff 600 /Users/allaire/Dropbox/iDev/snake/build/Debug/snake.app/Contents/Info.plist
+000000004d3c66a600000000000279d8 91f54938c6bea1305b427a3b03b967c0 ffffffffffffffffffffffffffffffff 125716 /Users/allaire/Dropbox/iDev/snake/build/snake.build/Debug/snake.build/Objects-normal/i386/main.o
