@@ -1,4 +1,4 @@
-/build	
+build	/
 *.xcodeproj
 *.plist
-README.md
+.DS_Store
